@@ -1,3 +1,9 @@
+xserver-xorg-video-vesa (1:2.5.0.1-deepin1) unstable; urgency=medium
+
+  * Refuse to run if framebuffer or dri devices are present.
+
+ -- zhanghaotian <zhanghaotian@uniontech.com>  Mon, 02 Nov 2026 13:58:53 +0800
+
 xserver-xorg-video-vesa (1:2.5.0.1-deepin) stable; urgency=medium
 
   * ['Rebuild  against by  current gcc 11.2']
